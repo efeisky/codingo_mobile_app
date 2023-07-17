@@ -1,0 +1,3 @@
+enum FilePaths{
+  province,school
+}

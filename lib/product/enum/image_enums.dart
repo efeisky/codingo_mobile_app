@@ -1,0 +1,38 @@
+
+// ignore_for_file: constant_identifier_names
+
+enum ImagePaths {
+  codingo,
+  greeting,
+  arrow_left,
+  google,
+  apple,
+  speaker,
+  send_icon,
+  home_icon,
+  home_filled_icon,
+  message_icon,
+  message_filled_icon,
+  light_search_icon,
+  search_icon,
+  search_filled_icon,
+  profile_icon,
+  profile_filled_icon,
+  math_image,
+  python_image,
+  unknown,
+  security_done,
+  security_fail,
+  user_score,
+  profile_like,
+  profile_school_chart,
+  profile_province_chart,
+  profile_activity_chart,
+  chat,
+  like,
+  follow,
+  report,
+  finish_lesson,
+  message_send_icon,
+  not_star
+}
